@@ -56,7 +56,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2 text-indigo-600">
             <GraduationCap size={28} strokeWidth={1.5} />
-            <h1 className="text-xl font-bold tracking-tight text-slate-900">EducationalAnalysis</h1>
+            <h1 className="text-xl font-bold tracking-tight text-slate-900">Educator</h1>
           </div>
           <div className="text-xs font-medium px-3 py-1 bg-indigo-50 text-indigo-600 rounded-full border border-indigo-100">
             Powered by Gemini 2.5 Flash & Apify

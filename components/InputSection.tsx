@@ -28,7 +28,7 @@ const InputSection: React.FC<InputSectionProps> = ({ onSubmit, isLoading }) => {
           <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-indigo-100 text-indigo-600 mb-4">
             <Instagram size={32} />
           </div>
-          <h2 className="text-2xl font-bold text-slate-900">Анализ Instagram ВУЗа</h2>
+          <h2 className="text-2xl font-bold text-slate-900">Анализ учереждения</h2>
           <p className="text-slate-600 mt-2">
             Введите Instagram аккаунт университета для получения полного отчета о репутации и профориентации.
           </p>
@@ -74,7 +74,7 @@ const InputSection: React.FC<InputSectionProps> = ({ onSubmit, isLoading }) => {
       </div>
       
       <p className="text-center text-slate-400 text-sm mt-6">
-        Мы анализируем 50+ постов и 200+ комментариев для каждого отчета.
+        Мы анализируем как и инстаграм аккаунт, так и офицальный сайт вуза!
       </p>
     </div>
   );
